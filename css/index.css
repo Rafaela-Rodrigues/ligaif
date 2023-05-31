@@ -1,0 +1,34 @@
+.first-slide{
+    height: 40em;
+    padding-bottom: 2em;
+}
+.second-slide{
+    height: 40em;
+    padding-bottom: 2em;
+}
+.third-slide{
+    height: 40em;
+    padding-bottom: 2em;
+}
+.logoLei{
+    width: 2em;
+    height: 2em;
+}
+
+li{
+    list-style-type: none;
+}
+#icones{
+    width: 5vh;
+    padding-bottom: 1em;
+}
+#imghome{
+    border-radius: 50px;
+}
+footer a{
+text-decoration: none;
+color: black;  
+}
+#seta{
+    height: 2em;
+}
